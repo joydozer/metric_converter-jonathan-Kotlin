@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas B1</string>
+    <string-array name="metrics">
+        <item>Pilih Metrik</item>
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus listrik</item>
+        <item>Suhu</item>
+    </string-array>
+    <string-array name="lengths">
+        <item>Pilih Satuan</item>
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Desimeter</item>
+        <item>Meter</item>
+        <item>Dekameter</item>
+        <item>Hektometer</item>
+        <item>Kilometer</item>
+    </string-array>
+</resources>

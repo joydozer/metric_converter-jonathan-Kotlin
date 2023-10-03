@@ -1,6 +1,6 @@
-<h1 align="center"> Metric Converter </h1>
+<h1 align="center"> Metric Converter - Kotlin </h1>
 <h3 align="center"> By: Jonathan Wuntu </h3>
-<p align="center"><img src="https://github.com/joydozer/metric_converter-jonathan-IONIC/blob/main/assets/alur.gif" height="540"/></p>
+<p align="center"><img src="https://github.com/joydozer/metric_converter-jonathan-Kotlin/blob/main/assets/alur.gif" height="540"/></p>
 
 
 ### ID
